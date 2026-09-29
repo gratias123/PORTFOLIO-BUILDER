@@ -1,0 +1,8 @@
+{
+  "name": "Remix Portfolio Builder",
+  "description": "Create, customize, and publish professional portfolios and generate downloadable resumes with our modern, all-in-one web platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
